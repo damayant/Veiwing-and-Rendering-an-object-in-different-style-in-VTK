@@ -9,10 +9,7 @@ python Assignment.py
 The file "teapot.stl" should be in the same directory as the file Assignment.py
 and the jpeg file "assignment1.jpeg" will get stored in the very same directory.
 
-#PS :
-In the attached folder, DamayantiA1 in which I am sending my documented code and 
-this readme file, I have also attached the jpeg file as "screenshot.jpeg" and 
-also the file "teapot.stl".
+
 
 
 
